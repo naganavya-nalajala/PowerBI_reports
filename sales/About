@@ -1,0 +1,64 @@
+Dataset: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+
+Power BI Dashboards – Sales Forecasting Project
+
+This repository showcases three interactive dashboards built in Power BI using the Kaggle Sales Forecasting dataset
+. The aim is to demonstrate how data visualization can transform raw sales data into meaningful business insights.
+
+1. Sales Performance Overview
+
+Focus: Company-wide KPIs and regional performance.
+
+Total Sales, Profit, and Quantity Sold at a glance.
+
+Trends over time: sales and profit patterns, seasonal spikes, and anomalies.
+
+Regional breakdowns: side-by-side views of sales, profit, and quantity across West, East, Central, and South regions.
+
+Key takeaway: West and East lead in sales and profitability, while Central and South show opportunities for growth.
+
+2. Customer Segmentation & Purchasing Behavior
+
+Focus: Understanding customer types and their contribution to business.
+
+Segmentation by Consumer, Corporate, and Home Office.
+
+Sales & Profit distribution across segments with pie and bar charts.
+
+Quantity Sold by Segment to highlight purchasing volume.
+
+Key takeaway: Consumer segment dominates sales and profit, while Corporate and Home Office present smaller but steady contributions.
+
+3. Product Category Insights
+
+Focus: Category- and subcategory-level performance.
+
+Sales by Category: Technology, Furniture, and Office Supplies.
+
+Profitability breakdown: high profitability in Technology, lower margins in Furniture.
+
+Subcategory performance: Top products (e.g., Phones, Chairs) and laggards identified.
+
+Key takeaway: Technology drives the most profit, while Furniture lags despite decent sales — an area for margin optimization.
+
+🎯 Business Value
+
+These dashboards illustrate how businesses can:
+
+Monitor overall performance against KPIs.
+
+Identify high-value customer segments.
+
+Detect profitability issues in product categories.
+
+Make data-driven decisions for marketing, pricing, and product focus.
+
+🚀 How to Use
+
+Clone this repo.
+
+Open .pbix files in Power BI Desktop.
+
+Interact with filters (Region, Segment, Category) to explore the data.
+
+Extend with your own dataset for business-specific insights
